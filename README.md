@@ -31,5 +31,4 @@ I created a simple developer portfolio website to showcase my projects, skills, 
 
 #### Submission Guidelines
 
-- Submit your project GitHub link to the CDV05 Project Tab.
 - I have deployed my project on Netlify [https://otlotlengmajuja-developer-profile.netlify.app/].
